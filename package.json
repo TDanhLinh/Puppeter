@@ -1,0 +1,12 @@
+{
+  "name": "puppeteer-crawler",
+  "version": "1.0.0",
+  "description": "A web crawler using Puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer-firefox": "^0.5.1"
+  }
+} 
